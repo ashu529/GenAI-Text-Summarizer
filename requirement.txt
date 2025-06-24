@@ -1,0 +1,7 @@
+transformers==4.41.1
+torch>=2.0.0
+gradio>=4.34.0
+pdfplumber
+pillow
+accelerate
+peft
