@@ -35,7 +35,9 @@ Edit
 text-summarizer-app/
 │
 ├── text-summary.py       # Main application code
+
 ├── requirements.txt      # Python dependencies
+
 └── README.md             # Project documentation
 📦 Requirements
 See requirements.txt for all dependencies.
